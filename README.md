@@ -1,7 +1,8 @@
 ## Data-warehouse-project
 Building a modern data warehouse with SQL Server, ETL processes, and data modeling for BI analytics 
 
-##About me
+##About me:
+
 **Hey friends, I am David Ezeugo. I am just starting my journey into the world of data. This will be my first major data project, and I hope you'll join me for the ride.
 **If you can provide any advice or tips to help improve the code or my work as a whole, please feel free to let me know.
 

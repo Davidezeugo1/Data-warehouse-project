@@ -1,4 +1,4 @@
-# Data-warehouse-project
+## Data-warehouse-project
 Building a modern data warehouse with SQL Server, ETL processes, and data modeling for BI analytics 
 
 ##About me
@@ -8,7 +8,8 @@ Building a modern data warehouse with SQL Server, ETL processes, and data modeli
 ##Project goal
 This project is to provide hands-on experiences into the life of a data engineer.
 
-Here are the Specifications
+##Here are the Specifications
+
 *Data sources: import data from two source systems (ERP and CRM), which are CSV  files
 
 *Data Quality: Cleanse and resolve data quality issues before analysis
